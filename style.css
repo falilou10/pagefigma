@@ -1,0 +1,300 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.banner{
+    font-family: sans-serif;
+    width: 100%;
+    height: 100vh;
+    background-image: url(Img\ \(1\).png);
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar{
+    display: flex;
+    padding-top: 33px;
+    gap: 10px;
+
+}
+
+.logo{
+    
+    font-size: 24px;
+    font-weight: 700;
+    color: #fff;
+    margin-left: 170px
+
+}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+
+.liste{
+    margin-left: 100px;
+}
+
+li a{
+    text-decoration: none;
+    color: #fff;
+    margin-right: 50px;
+
+}
+
+.button{
+    border: 2px solid #5E4DCD ;
+    color: white;
+    background-color: #5E4DCD;
+    padding: 5px;
+    width: 75px;
+}
+
+.texte{
+    font-size: 16px;
+    text-align: center;
+}
+.button1{
+    border: 2px solid #FFD2DD;
+    color: white;
+    background: #FFD2DD;
+    padding: 5px;
+    width: 85px;
+}
+.texte1{
+    font-size: 16px;
+    text-align: center;
+    color: #5E4DCD;
+}
+.button2{
+    border: 2px solid #5E4DCD ;
+    color: white;
+    background-color: #5E4DCD;
+    padding: 5px;
+    width: 120px;
+    margin-left: 170px;
+    margin-top: 30px;
+}
+
+.texte2{
+    font-size: 16px;
+    text-align: center;
+}
+
+.titre{
+    color: #fff;
+    margin-top: 150px;
+    margin-left: 170px;
+}
+
+.p1{
+    color: white;
+    margin-left: 170px;
+    margin-top: 30px;
+}
+
+.cercle{
+    background-color: #FFD2DD;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    opacity: 50%;
+    margin-top: -270px;
+    margin-left: 80px;
+
+}
+
+#section1{
+    height: 1250px;
+    background-color: rgba(231, 228, 228, 0.265);
+    font-family: sans-serif;
+}
+
+.sect{
+    font-family: sans-serif;
+    color: black;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.sect2{
+    margin-top: 20px;
+    opacity: 50%;
+}
+
+.image{
+    margin-top: 150px;
+}
+.image img{
+    width: 150px;
+}
+
+.photo img{
+    width: 250px;
+    height: 200px;
+}
+
+.photo1 img{
+    width: 250px;
+    height: 200px;
+}
+
+.bordure{
+    border: 1px solid white;
+    height: 200px;
+    width: 248px;
+    background-color: white;
+    margin-top: -10px;
+}
+
+.ox{
+    margin-left: 10px;
+}
+
+.p2{
+    opacity: 50%;
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.p3{
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.pb{
+    height: 5px;
+    width: 90%;
+    background-color: #ccc;
+    margin-left: 10px;
+}
+
+.pb1{
+    height: 5px;
+    background: #5E4DCD;
+}
+
+.grand{
+    display: flex;
+    gap: 18px;
+}
+
+.p4{
+    font-size: 12px;
+}
+
+.p5{
+    font-weight: bold;
+    font-size: 12px;
+}
+
+span{
+    color: #5E4DCD;
+    font-weight: bold;
+    margin-left: 10px;
+
+}
+
+.border{
+    border: 1px solid gray;
+
+}
+
+.bordure1{
+    border: 1px solid #FFD2DD;
+    height: 54px;
+    width: 248px;
+    text-align: center;
+    color: #5E4DCD;
+    background-color: #FFD2DD;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: sans-serif;
+    
+}
+
+.view{
+    margin-top: 18px;
+}
+
+.image20{
+    display: flex;
+    gap: 15px;
+    margin-top: -250px;
+    margin-left: 200px;
+}
+
+.image30{
+    display: flex;
+    margin-left: 200px;
+    gap: 15px;
+    margin-top: -60px;
+}
+
+
+.bordure2{
+    border: 1px solid #5E4DCD;
+    height: 50px;
+    width: 200px;
+    margin-top: 60px; 
+    margin-left: 500px;
+}
+
+.view2{
+    text-align: center; 
+    font-weight: bold;
+    font-size: 13px;
+    color: #5E4DCD;
+    margin-top: 15px;
+
+}
+
+#section3{
+    height: 300px;
+    background-color: #FFD2DD;
+}
+ .p6{
+    color: #fff;
+ }
+
+.imaage img{
+    width: 215px;
+    position: absolute;
+    margin-top: -100px;
+ }
+
+.imaage1 img{
+    margin-left: 700px;
+    margin-top: -180px;
+    width: 200px;
+ }
+.texte4{
+    padding-top: 100px;
+    margin-left: 100px;
+}
+
+#section4{
+    height: 500px;
+}
+
+.texte7{
+    font-size: 20px;
+}
+
+.p7{
+    opacity: 50%;
+}
+
+.texte6{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+.imaage2 img{
+    width: 250px;
+    margin-left: 700px;
+    margin-top: -150px;
+}
+
